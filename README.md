@@ -1,7 +1,7 @@
 <!-- Banner -->
 <img src="https://your-custom-banner-link.com/banner.png" alt="banner" width="100%" />
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Tijn! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer focused on building tools that make tech simpler and more fun.
 
