@@ -18,10 +18,10 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building too
 ## 🚧 Currently Building
 
 ### 🔹 [PulseDeck](https://github.com/your-username/pulsedeck)
-> A slick, lightweight overlay + dashboard for streamers, powered by [tech stack].
+> A slick, lightweight overlay + dashboard for streamers, powered by [Python, Flask & Plain HTML].
 
 ### 🔸 [Tevee Tools](https://github.com/your-username/tevee-tools)
-> Tools for content creators to organize and schedule their content workflow seamlessly.
+> Tools for everyone to make their life just a little more easy!
 
 ---
 
