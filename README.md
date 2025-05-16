@@ -28,6 +28,5 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building too
 ## 🧠 Learning & Exploring
 - 🧪 AI integrations for stream overlays
 - 🧩 Better UI/UX with Tailwind & Framer Motion
-- 🛡️ Electron for desktop tools
-
+- 🛡️ Laravel & PHP enthusiastic
 ---
