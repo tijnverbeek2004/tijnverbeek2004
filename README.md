@@ -41,15 +41,6 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building too
 
 ---
 
-## 🎨 Custom Fonts? Here's the Trick:
-Markdown on GitHub doesn’t support custom fonts directly. But you can:
-- Use **images** for headers made in your favorite font (upload or link from an image host).
-- Or use GitHub Actions to render text in a custom style and auto-update it.
-
-Need help doing that? I can set it up for you.
-
----
-
 ## 📫 Let's Connect!
 
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
