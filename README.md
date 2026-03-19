@@ -1,47 +1,67 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> Hello, I'm Tijn
-
 <div align="center">
-  <!-- FIX: Corrected typo in URL parameter (¢er=true) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9AFF¢er=true&vCenter=true&width=435&lines=Software+Developer;MBO+Graduate;Passionate+Problem+Solver" alt="Typing SVG" />
-</div>
 
-### About Me
-I'm a recent MBO Software Developer graduate from the Netherlands with a passion for building practical tools that make life easier. I thrive on turning complex problems into simple, elegant software solutions. My goal is to build a career working on challenging projects with a global impact.
+# Tijn Verbeek
 
----
+🟢 Full-stack Developer · Building things that actually get used
 
-### 🚀 My Pinned Projects
-
----
-
-### 🛠️ My Tech Stack
-<div align="center">
-  <!-- FIX: Converted Markdown images to HTML <img> tags to render inside the div -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </div>
 
 ---
 
-### 🌱 What I'm Learning Next
+## About
+
+I enjoy taking ideas from *"this would be cool"* to something real and usable.
+
+I work across the full stack — web, mobile, backend, and everything in between. Right now I'm deep in new territory: encryption tools in Rust and blockchain node infrastructure in Go. Clean code, practical solutions, always learning by building.
+
+---
+
+## Tech stack
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,typescript,docker,aws" alt="Skills I'm Learning" />
-  <p>Currently deepening my knowledge in full-stack development, cloud services, and containerization to build more robust and scalable applications.</p>
+<img src="https://skillicons.dev/icons?i=python,js,react,laravel,php,nodejs,go,rust,flutter,dart,swift,html,css" />
 </div>
 
 ---
-### 📫 Get In Touch
+
+## GitHub stats
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/tijn-verbeek-38ba90336">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://tijnverbeek.nl">
-    <img src="https://img.shields.io/badge/Website-FF5733?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Website/Portfolio" />
-  </a>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=tijnverbeek&show_icons=true&hide_border=true&count_private=true&theme=dark&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=tijnverbeek&show_icons=true&hide_border=true&count_private=true&theme=default&bg_color=00000000&title_color=0969da&icon_color=0969da"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tijnverbeek&show_icons=true&hide_border=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=tijnverbeek&hide_border=true&theme=dark&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=tijnverbeek&hide_border=true&background=00000000&ring=0969da&fire=0969da&currStreakLabel=0969da"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=tijnverbeek&hide_border=true" />
+</picture>
+
+</div>
+
+---
+
+## Find me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/tijn-verbeek-38ba90336)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/tijnverbeek.nl-111111?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111)](https://tijnverbeek.nl)
+
 </div>
